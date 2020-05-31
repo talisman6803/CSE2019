@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="citylist">
+        <item>Seoul</item>
+        <item>Daejeon</item>
+        <item>Daegu</item>
+        <item>Busan</item>
+    </string-array>
+    <string-array name="cityvalues">
+        <item>1835847</item>
+        <item>1835235</item>
+        <item>1835327</item>
+        <item>1838524</item>
+    </string-array>
+</resources>
